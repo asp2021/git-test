@@ -7,3 +7,6 @@ cambio2 en fichero 1!!
 caracteristica....2
 
 sigo haciendo esto
+
+aplico el hotfix
+
