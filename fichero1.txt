@@ -11,5 +11,3 @@ caracteristica 3
 caracteristica 3-2
 
 caracteristica 3a
-
-caracteristica 3a-2
