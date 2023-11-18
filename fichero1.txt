@@ -3,3 +3,5 @@ Este es el fichero 1
 aplico el hotfix
 
 comit 1 fastforward
+
+commit 2 fastforward
