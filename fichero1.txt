@@ -3,3 +3,7 @@ Este es el fichero 1
 cambio en fichero 1!!
 
 cambio2 en fichero 1!!
+
+caracteristica....2
+
+sigo haciendo esto
